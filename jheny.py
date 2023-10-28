@@ -1,2 +1,1 @@
-print("meu pau")
-tamanho_pau=13
+print("oi vida")
